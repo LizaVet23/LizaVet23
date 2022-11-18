@@ -1,5 +1,5 @@
-### Hi there 👋   
-#### My name is LizaVeta
+## Hi there 👋   
+### My name is LizaVeta
 
 <div>
   <img src="https://media.giphy.com/media/xT5LMywOTMWtK7iqSA/giphy.gif" width="550" height="400"/>
