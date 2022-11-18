@@ -2,7 +2,7 @@
 #### My name is LizaVeta
 
 <div>
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100"/>
+  <img src="" width="100"/>
 </div>
 
 
